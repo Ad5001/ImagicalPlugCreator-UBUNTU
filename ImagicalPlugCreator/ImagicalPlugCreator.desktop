@@ -1,7 +1,0 @@
-[Desktop Entry]
-_Name=ImagicalPlugCreator
-Exec=qmlscene %U ImagicalPlugCreator/Main.qml
-Icon=ImagicalPlugCreator/ImagicalPlugCreator.png
-Terminal=false
-Type=Application
-X-Ubuntu-Touch=true

@@ -1,0 +1,11 @@
+[Desktop Entry]
+_Name=ImagicalPlugCreator
+Name=ImagicalPlugCreator
+Comment=Create pocketmine plugin bases with ease!
+Exec=qmlscene /usr/share/ImagicalPlugCreator/ImagicalPlugCreator/Main.qml
+Icon=/usr/share/ImagicalPlugCreator/ImagicalPlugCreator/ImagicalPlugCreator.png
+Terminal=false
+Type=Application
+Categories=Qt;
+StartupWMClass=do-not-directly-run-firestorm-bin
+StartupNotify=true
