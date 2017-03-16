@@ -16,6 +16,7 @@ Ubuntu Touch: https://uappexplorer.com/app/imagicalplugcreator.ad5001
 Ubuntu Desktop:     
 [Download this repository](https://github.com/Ad5001/ImagicalPlugCreator-UBUNTU/archive/master.zip) (or clone it using `git clone https://github.com/Ad5001/ImagicalPlugCreator`).   
 Open a terminal in the folder where source files are downloaded.    
-Run: ```sh
+Run: 
+```sh
 $ sh install.sh
 ```
