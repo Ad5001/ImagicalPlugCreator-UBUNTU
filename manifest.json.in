@@ -1,0 +1,15 @@
+{
+    "name": "imagicalplugcreator.ad5001",
+    "description": "Create PocketMine plugin bases with ease !",
+    "architecture": "@CLICK_ARCH@",
+    "title": "ImagicalPlugCreator",
+    "hooks": {
+        "ImagicalPlugCreator": {
+            "apparmor": "ImagicalPlugCreator/ImagicalPlugCreator.apparmor",
+            "desktop": "ImagicalPlugCreator/ImagicalPlugCreator.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Ad5001 <mail@ad5001.eu>",
+    "framework": "ubuntu-sdk-15.04.6"
+}
